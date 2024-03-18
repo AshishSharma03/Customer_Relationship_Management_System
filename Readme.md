@@ -9,6 +9,10 @@ The Customer Relationship Management (CRM) System is a comprehensive software so
 ![CRM_ER_diagram](https://github.com/AshishSharma03/Customer_Relationship_Management_System/blob/main/Er_diagram/CRM_ERD.png)
 
 
+## Presentation
+
+![Download PowerPoint Presentation](https://github.com/AshishSharma03/Customer_Relationship_Management_System/blob/main/Er_diagram/CRM_PPT.pptx)
+
 # CRM System Entities and Relationships
 
 ## Entities
